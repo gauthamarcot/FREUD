@@ -1,0 +1,2 @@
+# FREUD
+Emotional recognition software 
